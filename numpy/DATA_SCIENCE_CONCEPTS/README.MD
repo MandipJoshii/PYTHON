@@ -1,0 +1,7 @@
+THIS CONCEPTS ARE GENERALLY USED IN AI-ML-DL
+
+WHY-
+    .
+    .
+    .
+    .

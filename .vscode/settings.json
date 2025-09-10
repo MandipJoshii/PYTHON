@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./numpy/projects/Basic_Project _marks_analysis"
+    ]
+}
