@@ -119,5 +119,36 @@ simplified
 axis = 2 => 0,1,2 = 3 value
 
 
+3. clip() -> it helps to set a limit of an array in given range
+
+ EXAMPLE: if clip() function is used in a image then,  clip(image,0,255) is set generally because rgb or 8-bit grayscale takes only 0-255 range where 0 is black and 255 is white.
+ BUT ITS NOT ALWAYS SET TO 0-255 it can be more or less or in minus too, but generally 0-255 range is mostly used
 
 
+
+
+take away/core concept for generating an image
+define the image path -> img = mpimg.imread("path")
+
+to grey an image ->
+if img.ndim == 3:
+gray_img = np.mean(img, axis = 2)
+else:
+gray_img = img
+
+to bright an image ->
+bright_img = gray_img + 200
+
+bright_img = np.clip(bright_img, 0,255)
+plt.imshow(bright_img, cmap = "gray")
+plt.title("bright")
+plt.axis("off")
+plt.show()
+
+to show contrast in an image ->
+contrast_img = gray_img * 2
+contrast_img = np.clip(contrast_img,0,255)
+plt.imshow(constrst_img, cmap = "gray")
+plt.title("contrast")
+plt.axis("off")
+plt.show()

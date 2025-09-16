@@ -39,3 +39,6 @@ plt.imshow(contrast_img,cmap = "gray")
 plt.title("IMAGE WITH CONTRAST")
 plt.axis("off")
 plt.show()
+
+
+
