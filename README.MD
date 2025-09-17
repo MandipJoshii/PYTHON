@@ -1,13 +1,45 @@
-I will timely update and upload my code but wont promise in consistency
+About This Repository
 
-NOTE:I WILL UPDATE EVERYTHING, I AM LEARNING AND I KNOW IT IS A BIT MESSY, BUT I AM GOING FROM SCRATCH AND ALONE SO I NEED TIME TO IMPROVE
+This repository is a work in progress as I learn and explore Python. I am currently building my skills in Python programming, including core concepts, libraries, and data analysis tools. I experiment with different Python libraries and tools such as NumPy, Matplotlib, Pandas, and others to apply my learning in practical projects.
 
-Project 1:Learn python basics
-It will consists (variables, syntax, loops, oops,collections,enumerator,function) with projects
+Note: The repository will be updated periodically. As I am learning from scratch and working independently, updates may not always be consistent, but I aim to improve continuously.
 
-Project 2:Start learning and adopting libraries
-First library i have choosed is numpy
-PROMPT: pip3 install numpy -> to install numpy
+Projects Overview
+WEEK 1: Python Basics 
+
+Covers fundamental concepts:
+
+Variables & Data Types
+
+Syntax & Control Flow (loops, conditionals)
+
+Functions & OOP
+
+Collections & Enumerators
+
+Includes small projects to apply these concepts.
 
 
-Project 3: TO BE CONTINUE
+<----------------------------------------------------------------------------->
+
+WEEK 2: Libraries,Tools and some implementation
+
+Focus: NumPy,Matplotlib and Pandas
+
+Installation:
+
+pip3 install numpy
+pip3 install matplotlib
+pip3 install pandas
+
+Applying libraries in simple projects and experimenting with its functionality.
+
+<----------------------------------------------------------------------------->
+
+Outcomes of learning(BEGINNER-FREINDLY PROJECTS)
+1.1 MARKS_ANALYSIS
+1.2 IMAGE_PROCESSING
+
+
+WEEK 3:Continuing Projects(BEGINNER-FREIDNLY PROJECTS)
+1.1 SIMULATE_TEMPERATURE(UNFINISHED)
