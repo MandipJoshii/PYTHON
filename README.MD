@@ -34,12 +34,11 @@ pip3 install pandas
 
 Applying libraries in simple projects and experimenting with its functionality.
 
-<----------------------------------------------------------------------------->
-
 Outcomes of learning(BEGINNER-FREINDLY PROJECTS)
 1.1 MARKS_ANALYSIS
 1.2 IMAGE_PROCESSING
 
+<----------------------------------------------------------------------------->
 
 WEEK 3:Continuing Projects(BEGINNER-FREIDNLY PROJECTS)
 1.1 SIMULATE_TEMPERATURE(UNFINISHED)
