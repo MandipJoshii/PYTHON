@@ -32,6 +32,11 @@ pip3 install numpy
 pip3 install matplotlib
 pip3 install pandas
 
+
+OR
+
+py -m pip install numpy,pandas,matplotlib
+
 Applying libraries in simple projects and experimenting with its functionality.
 
 Outcomes of learning(BEGINNER-FREINDLY PROJECTS)
