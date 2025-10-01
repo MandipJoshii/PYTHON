@@ -1,0 +1,5 @@
+Purpose	Function
+Python object → JSON string (in memory)	json.dumps()
+JSON string → Python object (in memory)	json.loads()
+Python object → JSON file	json.dump()
+JSON file → Python object	json.load()

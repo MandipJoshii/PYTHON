@@ -1,0 +1,26 @@
+[
+    {
+        "name": "cleaning_room",
+        "status": "pending"
+    },
+    {
+        "name": "cooking",
+        "status": "pending"
+    },
+    {
+        "name": "shopping",
+        "status": "pending"
+    },
+    {
+        "name": "spa",
+        "status": "pending"
+    },
+    {
+        "name": "throw_garbage",
+        "status": "pending"
+    },
+    {
+        "name": "cleaning_garden",
+        "status": "pending"
+    }
+]

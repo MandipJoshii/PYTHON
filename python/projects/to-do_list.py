@@ -1,10 +1,19 @@
-
-
-
+import json
 #status = completed(c), pending(p), skip(s)
 
-#features = add(a)/remove(r)
-tasks = [
+#features = add(a)/remove(r)       
+     
+
+try: 
+   with open("json_data.json","r") as file:
+      content = file.read().strip()
+
+      if content:
+         tasks = json.loads(file)
+      else:
+         raise FileNotFoundError
+except FileNotFoundError:
+   tasks = [
     {"name":"cleaning_room","status":"pending"},
     {"name":"cooking","status":"pending"},
     {"name":"shopping","status":"pending"},
@@ -36,6 +45,14 @@ while True:
      break
      
 
+    with open("json_data.json","w") as file:
+       json.dump(tasks,file,indent=4)
+
+print("\nTasks saved permanently")      
+
+          
+
+
 # file 
 
 
@@ -55,5 +72,3 @@ IT COULD BE SOLVED PUT THE PROGRAM WOULD BE COMPLEX AND NOT READABLE
 
 BEST WAY IS TO USE JSON
 """
-
-
