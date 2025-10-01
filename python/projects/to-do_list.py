@@ -36,3 +36,24 @@ while True:
      break
      
 
+# file 
+
+
+# file = open("todo-list.txt","a")
+
+
+# file.write(str(tasks) + "\n" + "\n")
+
+
+# file.close()
+"""
+this was a failure because:
+Append mode only writes to the file. Python never loads the file back into memory.
+So every time we restart, Python ignores what was saved and uses the original tasks list.
+IT COULD BE SOLVED PUT THE PROGRAM WOULD BE COMPLEX AND NOT READABLE
+
+
+BEST WAY IS TO USE JSON
+"""
+
+

@@ -1,0 +1,3 @@
+[{'name': 'cleaning_room', 'status': 'pending'}, {'name': 'cooking', 'status': 'pending'}, {'name': 'shopping', 'status': 'pending'}, {'name': 'spa', 'status': 'pending'}, {'name': 'throw_garbage', 'status': 'pending'}, {'name': 'dancing', 'status': 'pending'}]
+[{'name': 'cleaning_room', 'status': 'pending'}, {'name': 'cooking', 'status': 'pending'}, {'name': 'shopping', 'status': 'completed'}, {'name': 'spa', 'status': 'pending'}, {'name': 'throw_garbage', 'status': 'pending'}]
+
