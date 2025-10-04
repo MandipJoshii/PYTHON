@@ -9,7 +9,7 @@ try:
       content = file.read().strip()
 
       if content:
-         tasks = json.loads(file)
+         tasks = json.loads(content)
       else:
          raise FileNotFoundError
 except FileNotFoundError:

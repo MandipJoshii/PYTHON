@@ -1,0 +1,16 @@
+this is a dictionary -> {key:value,.......,key:value}
+
+for example:
+
+{"name":"mandip","age":21}
+
+this is not a dictinoary, this is a SET (a concept in python)
+
+
+print("mandip","-",21)
+print({c['name'], '-', c['age'], '-', c['contact_number'], '-', c['email']})
+
+
+but this is a f-STRING
+print(f"{c['name']} - {c['age']} - {c['contact_number']} - {c['email']}")
+
