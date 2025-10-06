@@ -17,7 +17,7 @@ print("\n TABLE CREATED SUCCESSFULLY \n")
 
 
 cursor.execute("INSERT INTO STUDENTS(id,name,age) VALUES (?,?,?)",(101,"josh",21))
-cursor.execute("INSERT INTO STUDENTS(id,name,age) VALUES (?,?,?)",(102,"hazel",22))
+cursor.execute("INSERT INTO STUDENTS(id,name,age) VALUES (?,?,?)",(102,"hazelwood",22))
 
 
 
