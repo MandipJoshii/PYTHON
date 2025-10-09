@@ -1,13 +1,25 @@
-About This Repository
+🐍 PYTHON LEARNING JOURNEY
 
-This repository is a work in progress as I learn and explore Python. I am currently building my skills in Python programming, including core concepts, libraries, and data analysis tools. I experiment with different Python libraries and tools such as NumPy, Matplotlib, Pandas, and others to apply my learning in practical projects.
+“Learning by building, improving by experimenting.”
 
-Note: The repository will be updated periodically. As I am learning from scratch and working independently, updates may not always be consistent, but I aim to improve continuously.
+📘 About This Repository
 
-Projects Overview
-WEEK 1: Python Basics 
+This repository documents my learning journey in Python, where I explore programming fundamentals, libraries, and real world applications.
+I’m currently learning and experimenting with:
 
-Covers fundamental concepts:
+. Python basics (syntax, functions, loops, OOP)
+
+. Data tools – NumPy, Pandas, and Matplotlib
+
+. File handling, JSON, and small project implementations
+
+Note: This repository is updated periodically.
+I’m learning from scratch and working independently — progress may be slow, but it’s consistent and improving with time.
+
+. Weekly Progress & Projects
+. Week 1 – Python Fundamentals
+
+Concepts Covered:
 
 Variables & Data Types
 
@@ -17,33 +29,45 @@ Functions & OOP
 
 Collections & Enumerators
 
-Includes small projects to apply these concepts.
+Practice Projects:
 
+Small beginner projects to apply core concepts
 
-<----------------------------------------------------------------------------->
+. Week 2 – Exploring Libraries & Tools
 
-WEEK 2: Libraries,Tools and some implementation
-
-Focus: NumPy,Matplotlib and Pandas
+Focus: NumPy, Matplotlib, Pandas
 
 Installation:
 
-pip3 install numpy
-pip3 install matplotlib
-pip3 install pandas
+pip install numpy pandas matplotlib
 
 
-OR
+Goals:
 
-py -m pip install numpy,pandas,matplotlib
+Understanding data handling with NumPy & Pandas
 
-Applying libraries in simple projects and experimenting with its functionality.
+Visualizing data using Matplotlib
 
-Outcomes of learning(BEGINNER-FREINDLY PROJECTS)
-1.1 MARKS_ANALYSIS
-1.2 IMAGE_PROCESSING
+Applying libraries to simple, practical projects
 
-<----------------------------------------------------------------------------->
+Projects:
 
-WEEK 3:Continuing Projects(BEGINNER-FREIDNLY PROJECTS)
-1.1 SIMULATE_TEMPERATURE(UNFINISHED)
+. MARKS_ANALYSIS
+
+. IMAGE_PROCESSING
+
+. Week 3 – Continuing Beginner-Friendly Projects
+
+Current Work:
+
+. SIMULATE_TEMPERATURE (in progress)
+
+. Upcoming Plans
+
+Add JSON-based data storage
+
+Explore file handling and basic database connections
+
+Improve structure and readability of older code
+
+Document learnings and observations
