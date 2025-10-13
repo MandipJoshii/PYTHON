@@ -18,7 +18,7 @@ cursor.execute("DELETE FROM STUDENTS")
 
 while True:
 
- print("WLECOME TO YOUR DATABASE: ")
+ print("WELCOME TO YOUR DATABASE: ")
 
 
  id = int(input("ENTER YOUR ID: "))

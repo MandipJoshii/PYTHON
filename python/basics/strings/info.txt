@@ -1,0 +1,26 @@
+Strings are immutable meaning is cannot be changed or modified 
+FOR EXAMPLE:
+
+txt = "hello"
+print(txt)
+
+In basics.py we will cover basic concept of string
+
+
+STRING METHOD
+| Method           | Description             | Example                                   |
+| ---------------- | ----------------------- | ----------------------------------------- |
+| `.lower()`       | Converts to lowercase   | `"HELLO".lower()` → `"hello"`             |
+| `.upper()`       | Converts to uppercase   | `"hi".upper()` → `"HI"`                   |
+| `.title()`       | Capitalizes each word   | `"hello world".title()` → `"Hello World"` |
+| `.capitalize()`  | First letter uppercase  | `"python".capitalize()` → `"Python"`      |
+| `.strip()`       | Removes spaces          | `" hello ".strip()` → `"hello"`           |
+| `.replace(a, b)` | Replaces text           | `"hi".replace("h", "b")` → `"bi"`         |
+| `.split()`       | Converts to list        | `"a,b,c".split(",")` → `['a','b','c']`    |
+| `.join()`        | Joins list to string    | `" ".join(['Hi','Yunay'])` → `"Hi Yunay"` |
+| `.find()`        | Finds substring index   | `"apple".find("p")` → `1`                 |
+| `.count()`       | Counts substring        | `"banana".count("a")` → `3`               |
+| `.startswith()`  | Checks beginning        | `"Hello".startswith("He")` → `True`       |
+| `.endswith()`    | Checks end              | `"Hello".endswith("lo")` → `True`         |
+| `.isdigit()`     | Checks for digits       | `"123".isdigit()` → `True`                |
+| `.isalpha()`     | Checks for letters only | `"abc".isalpha()` → `True`                |
