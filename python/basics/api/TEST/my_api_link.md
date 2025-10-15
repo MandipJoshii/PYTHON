@@ -1,0 +1,2 @@
+this is my everytime emergency link to test my api though i wont share my api key
+https://api.themoviedb.org/3/discover/movie?api_key=your_api&include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc

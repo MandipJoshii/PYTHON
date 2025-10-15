@@ -26,6 +26,11 @@ print(str1[1:4])
 print(str1[::1])
 print(str1[1::])
 
+print("<--------------------------------------STRING METHOD---------------------------------------------->")
+
+print("EXPLAINED IN info.txt")
+
+
 
 
 
