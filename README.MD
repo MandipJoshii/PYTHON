@@ -4,7 +4,7 @@
 
 📘 About This Repository
 
-This repository documeMarkdown Preview Enhancednts my learning journey in Python, where I explore programming fundamentals, libraries, and real world applications.
+This repository is documented to represent my learning journey in Python, where I explore programming fundamentals, libraries, and real world applications.
 I’m currently learning and experimenting with:
 
 . Python basics (syntax, functions, loops, OOP)
