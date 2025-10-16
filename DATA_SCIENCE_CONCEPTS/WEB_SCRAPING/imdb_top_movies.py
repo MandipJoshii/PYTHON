@@ -20,3 +20,14 @@ print(soup.find_all('h1')[0].text)
 print(len(soup.find_all('p')))
 
 
+movie_list = soup.find_all('div',class_='sc-ec40e84d-0 dTHKNo')
+print(movie_list)
+print(len(movie_list))
+
+name = []
+for i in movie_list:
+    name.append(i.find('h3').text)
+
+print(name)        
+
+
