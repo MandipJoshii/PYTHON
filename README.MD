@@ -1,4 +1,4 @@
-# 🧠 Yunay’s Python | AI | ML Journey 🚀
+# 🧠 Mandip's Python | AI | ML Journey 🚀
 
 > *“Learning is not a race — it’s a rhythm.”*  
 > This repository is my personal **learning log** — a space where I explore, build, and grow with **Python** every single day.  
