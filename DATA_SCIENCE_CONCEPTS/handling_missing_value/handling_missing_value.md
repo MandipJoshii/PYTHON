@@ -51,3 +51,10 @@ Consistent: Ensures same preprocessing logic every time
 
 fillna() and dropna() are static — cannot adapt to new or similar datasets.
 SimpleImputer is ML-friendly, essential for pipelines.
+
+SYNTAX TO KNOW:
+ColumnTransformer("name",transformer_object,list_of_column)
+
+name = label
+transformer_object = what to apply
+list_of_column = in which column we want changes to apply
